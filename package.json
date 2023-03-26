@@ -1,5 +1,5 @@
 {
-  "name": "next-mysql-crud",
+  "name": "nextjs-mysql-crud-main",
   "private": true,
   "scripts": {
     "dev": "next dev",
